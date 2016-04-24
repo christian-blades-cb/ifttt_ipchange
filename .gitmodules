@@ -1,0 +1,12 @@
+[submodule "vendor/golang.org/x/net"]
+	path = vendor/golang.org/x/net
+	url = https://go.googlesource.com/net
+[submodule "vendor/github.com/Sirupsen/logrus"]
+	path = vendor/github.com/Sirupsen/logrus
+	url = https://github.com/Sirupsen/logrus
+[submodule "vendor/github.com/jessevdk/go-flags"]
+	path = vendor/github.com/jessevdk/go-flags
+	url = https://github.com/jessevdk/go-flags
+[submodule "vendor/github.com/cenkalti/backoff"]
+	path = vendor/github.com/cenkalti/backoff
+	url = https://github.com/cenkalti/backoff
